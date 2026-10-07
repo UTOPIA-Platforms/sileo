@@ -1,0 +1,43 @@
+{
+  "class": "DepictionStackView",
+  "tintColor": "#7C4DFF",
+  "views": [
+    {
+      "class": "DepictionHeaderView",
+      "title": "SpoofCam",
+      "useBoldText": true,
+      "useBottomMargin": false
+    },
+    {
+      "class": "DepictionMarkdownView",
+      "markdown": "Spoof the stock Camera app: the viewfinder plays a looping clip instead of the live camera (front and back), and every photo or video you save contains the same clip.\n\nInjected into Camera.app only; the real capture session keeps running underneath.\n\n**Rootless only** — palera1n / ElleKit."
+    },
+    {
+      "class": "DepictionScreenshotsView",
+      "screenshots": [
+        {
+          "url": "https://utopia-platforms.github.io/sileo/assets/screenshot.png",
+          "accessibilityText": "Camera viewfinder playing the looping Scooby-Doo clip"
+        }
+      ],
+      "itemCornerRadius": 6,
+      "itemSize": "{328, 700}"
+    },
+    {
+      "class": "DepictionTableView",
+      "title": "Information",
+      "children": [
+        { "class": "DepictionTableRowView", "title": "Version", "detail": "1.0.0" },
+        { "class": "DepictionTableRowView", "title": "Developer", "detail": "UTOPIA" },
+        { "class": "DepictionTableRowView", "title": "Section", "detail": "Tweaks" },
+        { "class": "DepictionTableRowView", "title": "Compatibility", "detail": "iOS 14.0 – 16.7.x (rootless)" }
+      ]
+    },
+    {
+      "class": "DepictionTableButtonView",
+      "title": "Source on GitHub",
+      "action": "https://github.com/UTOPIA-Platforms/iphone-camera-spoof",
+      "openExternal": true
+    }
+  ]
+}

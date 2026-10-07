@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://utopia-platforms.github.io/sileo/assets/banner.png",
+      "title": "SpoofCam",
+      "package": "com.utopia.spoofcam",
+      "hideShadow": false
+    }
+  ]
+}
