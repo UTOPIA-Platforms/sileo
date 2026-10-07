@@ -4,13 +4,13 @@
   "views": [
     {
       "class": "DepictionHeaderView",
-      "title": "SpoofCam",
+      "title": "Scooby-Doo",
       "useBoldText": true,
       "useBottomMargin": false
     },
     {
       "class": "DepictionMarkdownView",
-      "markdown": "Spoof the stock Camera app: the viewfinder plays a looping clip instead of the live camera (front and back), and every photo or video you save contains the same clip.\n\nInjected into Camera.app only; the real capture session keeps running underneath.\n\n**Rootless only** — palera1n / ElleKit."
+      "markdown": "Spoof the stock Camera app: the viewfinder plays a looping Scooby-Doo clip instead of the live camera (front and back), and every photo or video you save contains the same clip.\n\n**Settings → Scooby-Doo**: point **Server URL** at your own hosted .mp4 (downloaded once and cached on the device) and toggle the tweak with **Enabled** — changes apply live, no respring.\n\n**Rootless only** — palera1n / ElleKit."
     },
     {
       "class": "DepictionScreenshotsView",
@@ -27,7 +27,7 @@
       "class": "DepictionTableView",
       "title": "Information",
       "children": [
-        { "class": "DepictionTableRowView", "title": "Version", "detail": "1.0.0" },
+        { "class": "DepictionTableRowView", "title": "Version", "detail": "1.1.0" },
         { "class": "DepictionTableRowView", "title": "Developer", "detail": "UTOPIA" },
         { "class": "DepictionTableRowView", "title": "Section", "detail": "Tweaks" },
         { "class": "DepictionTableRowView", "title": "Compatibility", "detail": "iOS 14.0 – 16.7.x (rootless)" }

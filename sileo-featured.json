@@ -5,7 +5,7 @@
   "banners": [
     {
       "url": "https://utopia-platforms.github.io/sileo/assets/banner.png",
-      "title": "SpoofCam",
+      "title": "Scooby-Doo",
       "package": "com.utopia.spoofcam",
       "hideShadow": false
     }
