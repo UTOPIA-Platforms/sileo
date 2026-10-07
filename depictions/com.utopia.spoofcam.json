@@ -10,7 +10,7 @@
     },
     {
       "class": "DepictionMarkdownView",
-      "markdown": "Spoof the stock Camera app: the viewfinder plays a looping Scooby-Doo clip instead of the live camera (front and back), and every photo or video you save contains the same clip.\n\n**Settings → Scooby-Doo**: point **Server URL** at your own hosted .mp4 (downloaded once and cached on the device) and toggle the tweak with **Enabled** — changes apply live, no respring.\n\n**Rootless only** — palera1n / ElleKit."
+      "markdown": "Spoof the stock Camera app: the viewfinder plays a looping video instead of the live camera, and saved photos/videos contain the same clip.\n\n**Auto direction**: when the tweak sees a white arrow in a blue circle through the real camera (verification screens), it switches to the matching Up / Right / Left video — bundled clips of you, or your own URLs in **Settings → Scooby-Doo**. Front-camera mirroring is handled automatically.\n\n**Settings → Scooby-Doo**: per-direction URLs + default video URL (downloaded once, cached on device) + **Enabled** toggle. Changes apply live, no respring.\n\n**Rootless only** — palera1n / ElleKit."
     },
     {
       "class": "DepictionScreenshotsView",
@@ -27,7 +27,7 @@
       "class": "DepictionTableView",
       "title": "Information",
       "children": [
-        { "class": "DepictionTableRowView", "title": "Version", "detail": "1.1.2" },
+        { "class": "DepictionTableRowView", "title": "Version", "detail": "1.2.0" },
         { "class": "DepictionTableRowView", "title": "Developer", "detail": "UTOPIA" },
         { "class": "DepictionTableRowView", "title": "Section", "detail": "Tweaks" },
         { "class": "DepictionTableRowView", "title": "Compatibility", "detail": "iOS 14.0 – 16.7.x (rootless)" }
