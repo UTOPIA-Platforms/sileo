@@ -7,23 +7,23 @@ Architectures: iphoneos-arm64
 Components: main
 Description: UTOPIA rootless tweaks
 MD5Sum:
- 4fe1a9adcbb75dea9a15f67d2d826eaa              861 Packages
- bdf955a98e67452f613ad2f0f93e99b1              510 Packages.gz
- 3e04a392af46bd37d3e2053d1fcf745d              572 Packages.bz2
- 4215d34516325c1d0a2ffcd41e804eb5              592 Packages.xz
- 03729bb5b946b60398aa4a25a96f8e15              514 Packages.zst
- c628a69d89b487f2971a3ae023137278          2080544 debs/com.utopia.spoofcam_1.4.6_iphoneos-arm64.deb
+ 3171f5847864a63be3e75c5d56511488              861 Packages
+ 6c3187a76248d6b95e742c0620ff8818              512 Packages.gz
+ 86274853c06fd750d47427b4cb793e4b              578 Packages.bz2
+ 694943196b1337116bdf6d0fe3a7b1d7              592 Packages.xz
+ 68ed235c27f63e4b3d2d14cd722b5076              519 Packages.zst
+ 169e65d5ca2484e35cedf238017d39d1          2190780 debs/com.utopia.spoofcam_1.4.7_iphoneos-arm64.deb
 SHA1:
- 2e60be9e08460d382bfd4d4f6e38bdd946a7a545              861 Packages
- f72556f564acd7ccba398b1713b96b2d1e2a87e1              510 Packages.gz
- 68f3b636859a0425c02f05db4237969096148cec              572 Packages.bz2
- ad115c77b07044b49bc8ace476ae4c63b8db2ac4              592 Packages.xz
- 2e473228c079a65fc735ed1597719f3591c11769              514 Packages.zst
- 0c88d2081e4d605ae91787ccac0d7fa01da0134b          2080544 debs/com.utopia.spoofcam_1.4.6_iphoneos-arm64.deb
+ 3c566b33e77107e0d89a89d6c86f19d9c2398c89              861 Packages
+ ae65464da54f462e74e0f7d077d6b00fd89152e3              512 Packages.gz
+ 164f76a1c85d61b720e5fb87f8982ab2e2bfcb4d              578 Packages.bz2
+ 8b6ef6715528025131ad828e9f72c600c660cb31              592 Packages.xz
+ 7f1fd7e316353c4d019cbd3d3777f98d326875d9              519 Packages.zst
+ 64e38b8df540389533a215632bc473b79576508f          2190780 debs/com.utopia.spoofcam_1.4.7_iphoneos-arm64.deb
 SHA256:
- af1426c3c3d8ade1f4f3994ee959c3dcb780419c7b74d6ca7114f5fa8a775bfe              861 Packages
- 5a265aa76e623ca25b3374d979e8ca75a2cd2d2579cc7797a4759cb233ec27b0              510 Packages.gz
- 41268037c3379e811f13bc1236ab1394e300635ee01186ecee205a54e54064a4              572 Packages.bz2
- a3480deef6c7afd8ee5a48b32111878bf2ea4cdb415ce459b2d2498cb28c4b84              592 Packages.xz
- fd67152f7afaaa808b53ee294eb555faa95814da5fea0929aec6d19f64d847a9              514 Packages.zst
- fcc04400abd5af8f4d8f52eae1c9b52f47cda9cc86908645528f5792083dfc31          2080544 debs/com.utopia.spoofcam_1.4.6_iphoneos-arm64.deb
+ 52830653f3f180761a13947e55c6bf9c407b34048a4f83505f8f3a567e7590e7              861 Packages
+ 162f49f39637a153080824e71ab4bacc2b80deb9c72f1319c3c4bd9e3570c1e0              512 Packages.gz
+ db039ca197c207fd2b953fc296c593c09cbec23ced424d92ceea8797d8fd6482              578 Packages.bz2
+ c065ea0a5ca5290dcef1e26dbcb161c444cad512b5577129bc6ef830ff7df8b7              592 Packages.xz
+ e320cc4799cf59ed4ed8e159002f693e1211c859424f6406a023e454ca48b5ad              519 Packages.zst
+ 295ed023bb46d09539595a1160c6c44095f68f806dd79f06dc41ec1bd5ce2503          2190780 debs/com.utopia.spoofcam_1.4.7_iphoneos-arm64.deb
