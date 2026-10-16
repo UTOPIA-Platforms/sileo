@@ -1,6 +1,6 @@
 Package: com.utopia.spoofcam
 Name: Scooby-Doo
-Version: 1.6.0
+Version: 1.6.1
 Architecture: iphoneos-arm64
 Maintainer: UTOPIA
 Author: UTOPIA
@@ -12,9 +12,9 @@ Description: Spoof the stock Camera app: viewfinder plays a looping
 Depiction: https://utopia-platforms.github.io/sileo/depictions/?p=com.utopia.spoofcam
 SileoDepiction: https://utopia-platforms.github.io/sileo/depictions/com.utopia.spoofcam.json
 Icon: https://utopia-platforms.github.io/sileo/assets/SpoofCam.png
-Filename: debs/com.utopia.spoofcam_1.6.0_iphoneos-arm64.deb
-Size: 4208124
-MD5sum: 99d2eb47e1a9283549cfb645aca9da0c
-SHA1: f7d304a38ad60da05adaf63baa91412aff8edbc6
-SHA256: 67e079e8145f6b34e88286def61a6fc96908d0b7a2441ca67a7b6b6de753e28e
+Filename: debs/com.utopia.spoofcam_1.6.1_iphoneos-arm64.deb
+Size: 4208244
+MD5sum: 736e5394bcffae6a68acc4518e9f764d
+SHA1: 6c42c0273a673266cac1218ceab0bd0057b85d44
+SHA256: 7dc0fb2a9f929cfc70e9d715d18b2048d844349f83c1f87592a57c2f8eb45443
 
